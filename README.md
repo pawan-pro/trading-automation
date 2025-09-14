@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trading Automation (MT5 Signal-Based System) - AI Automation Guide
 
 This project focuses on building an automated trading system using MetaTrader 5 signals with AI tools to accelerate development and automate complex trading logic.
@@ -533,3 +534,7 @@ See the main `requirements.txt` file in the root directory. Key packages for AI 
 **Remember**: AI tools are powerful accelerators for building trading systems, but your understanding of market dynamics, risk management, and trading psychology is what will make your system successful. Use AI to handle the technical implementation while you focus on strategy design and risk management!
 
 **Need Help?** Check the [AI Coding Assistants Guide](../AI_CODING_ASSISTANTS_GUIDE.md) or ask your mentor for guidance on specific AI usage.
+=======
+# trading-automation
+AI-powered automated trading system using MetaTrader 5 signals for algorithmic trading and risk management
+>>>>>>> 9feb91a4e11fa569922c00765a4b7cacb0c9023d
